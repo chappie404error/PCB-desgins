@@ -2,8 +2,8 @@
   <img width=50% src="sch.png">
 </p>
 <p>
-  <img src="pcb.png">
+  <img width=50% src="pcb.png">
 </p>
 <p>
-  <img src="final.png">
+  <img width=50% src="final.png">
 </p>
