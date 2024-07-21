@@ -1,5 +1,5 @@
 <p>
-  <img src="sch.png">
+  <img width=50% src="sch.png">
 </p>
 <p>
   <img src="pcb.png">
